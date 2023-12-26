@@ -20,6 +20,7 @@ export default defineConfig({
 				match: ['https://f95zone.to/threads/*'],
 				author: 'TonyYanOnFire',
 				description: 'Track the versions of games you have finished on F95Zone.',
+				license: 'MIT'
 			}, build: {
 
 				externalGlobals: [
