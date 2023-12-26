@@ -8,7 +8,7 @@ ___
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
-2. Install the script from [GreasyFork](https://greasyfork.org/en/scripts/483172-fz-tracker)
+2. Install the script from [GreasyFork](https://greasyfork.org/en/scripts/483174-fz-tracker)
 
 ## Usage
 
