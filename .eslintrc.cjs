@@ -29,10 +29,6 @@ module.exports = {
         "vue"
     ],
     "rules": {
-        "indent": [
-            "error",
-            "tab"
-        ],
         "linebreak-style": [
             "error",
             "windows"
@@ -49,6 +45,11 @@ module.exports = {
         "vue/html-closing-bracket-newline": ["error", {
             "singleline": "never",
             "multiline": "never"
+        }],
+
+        "comma-dangle": ["error", "always-multiline"],
+        "object-property-newline": ["error", {
+            "allowAllPropertiesOnSameLine": false
         }],
     }
 }
