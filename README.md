@@ -35,6 +35,9 @@ ___
 
 ## Changelog
 
+### 1.1.1 (2023-01-02)
+- Fix header style issue
+
 ### 1.1.0 (2023-12-31)
 - UI improvements
 - Support manually adding a record

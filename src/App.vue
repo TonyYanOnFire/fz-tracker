@@ -12,14 +12,8 @@ const titleElement = inject('titleElement')
 
 <style lang="scss">
 .fz-tracker {
-  .p-body-header {
-    &, &.cover {
-      z-index: 7 ;
-    }
-  }
-
-  .p-body, .uix_headerContainer{
-    z-index: 6;
+  .p-body {
+    z-index: 5;
   }
 
   .el-icon svg path {

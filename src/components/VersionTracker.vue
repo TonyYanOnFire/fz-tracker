@@ -133,7 +133,7 @@ const onSubmit = () => {
 const popoverCommonProps = {
   effect: 'light',
   teleported: false,
-  placement: 'top',
+  placement: 'bottom',
 }
 
 function addRecord ({version, time}) {
