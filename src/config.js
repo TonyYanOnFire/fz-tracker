@@ -1,1 +1,1 @@
-export const trackerVersion = '1.1.1'
+export const trackerVersion = '1.1.2'

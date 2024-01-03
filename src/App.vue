@@ -12,8 +12,11 @@ const titleElement = inject('titleElement')
 
 <style lang="scss">
 .fz-tracker {
-  .p-body {
+  .p-body-header {
     z-index: 5;
+  }
+  .p-body {
+    z-index: 4;
   }
 
   .el-icon svg path {
